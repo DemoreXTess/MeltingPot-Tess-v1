@@ -22,7 +22,7 @@ Tess-v1 is a reinforcement learning solution tailored for the challenges posed i
 
 Note: For reproducibility, it is essential to configure the parameters in `configs.py`. The necessary configuration details will be shared in the next commit.
 
-### Prerequisites
+## Prerequisites
 
 Before running Tess-v1, ensure you have the following prerequisites installed:
 
@@ -38,4 +38,10 @@ You can install these dependencies using the following:
 
 ```bash
 pip install torch>=2.0.1 stable-baselines3 gym==0.21.0 opencv-python numpy wandb dm-meltingpot
+```
+## License
+
+This project is licensed under the [MIT License](https://github.com/utkuearas/MeltingPot-Tess-v1/LICENSE.md)
+
+
 
