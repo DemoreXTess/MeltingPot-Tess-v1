@@ -1,0 +1,9 @@
+cff-version: 1.2.0
+message: "If you use this software, please cite it as below."
+authors:
+  - family-names: Erdoğanaras
+    given-names: Utku
+title: "Tess-v1: Pure RL Solution for NeurIPS Melting Pot Contest"
+version: 1
+date-released: 2023-12-26
+url: "https://github.com/utkuearas/MeltingPot-Tess-v1"
