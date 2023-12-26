@@ -44,6 +44,14 @@ pip install torch>=2.0.1 stable-baselines3 gym==0.21.0 opencv-python numpy wandb
 
 This project is licensed under the [MIT License](https://github.com/utkuearas/MeltingPot-Tess-v1/blob/master/LICENSE)
 
+## Tess-v1 RL Solution
+```  
+Version		: 1
+Released 	: 2023-12-26
+Author		:: Utku Erodoğanaras
+Contacts 	: utkuearasbusiness@gmail.com
+```
+
 ## Citation
 
 Please site this repository in [this](https://github.com/utkuearas/MeltingPot-Tess-v1/blob/master/CITATION.cff) format.
