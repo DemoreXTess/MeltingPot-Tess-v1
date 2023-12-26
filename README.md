@@ -5,7 +5,7 @@ Tess-v1 is a reinforcement learning solution developed for the NeurIPS Melting P
 ## Table of Contents
 
 - [Introduction](#introduction)
-- [Trainnings](#trainnings)
+- [Trainings](#trainings)
 - [Prerequisites](#prerequisites)
 - [License](#license)
 - [Citation](#citation)
@@ -14,7 +14,7 @@ Tess-v1 is a reinforcement learning solution developed for the NeurIPS Melting P
 
 Tess-v1 is a reinforcement learning solution tailored for the challenges posed in the NeurIPS Melting Pot Contest. The repository encompasses various training and model files, with particular emphasis on `models/model_v4_cont.py`, which is employed in all the final experiments.
 
-## Trainnings
+## Trainings
 
 - **Harvest**: Trained using `train_multitask_harvest.py`
 - **Clean Up**: Trained using `train_multitask.py`
