@@ -46,7 +46,7 @@ This project is licensed under the [MIT License](https://github.com/utkuearas/Me
 
 ## Citation
 
-Please site this repository in [this](https://github.com/utkuearas/MeltingPot-Tess-v1/blob/master/citation.md) format.
+Please site this repository in [this](https://github.com/utkuearas/MeltingPot-Tess-v1/blob/master/citation.cff) format.
 
 
 
