@@ -5,21 +5,15 @@ Tess-v1 is a reinforcement learning solution developed for the NeurIPS Melting P
 ## Table of Contents
 
 - [Introduction](#introduction)
-- [Features](#features)
-- [Getting Started](#getting-started)
-  - [Prerequisites](#prerequisites)
-  - [Installation](#installation)
-- [Usage](#usage)
-- [Configurations](#configurations)
-- [Contributing](#contributing)
+- [Trainnings](#trainnings)
+- [Prerequisites](#prerequisites)
 - [License](#license)
-- [Acknowledgements](#acknowledgements)
 
 ## Introduction
 
 Tess-v1 is a reinforcement learning solution tailored for the challenges posed in the NeurIPS Melting Pot Contest. The repository encompasses various training and model files, with particular emphasis on `models/model_v4_cont.py`, which is employed in all the final experiments.
 
-## Features
+## Trainnings
 
 - **Harvest**: Trained using `train_multitask_harvest.py`
 - **Clean Up**: Trained using `train_multitask.py`
@@ -27,8 +21,6 @@ Tess-v1 is a reinforcement learning solution tailored for the challenges posed i
 - **Territory Rooms**: Trained using `train-v6.py`
 
 Note: For reproducibility, it is essential to configure the parameters in `configs.py`. The necessary configuration details will be shared in the next commit.
-
-## Getting Started
 
 ### Prerequisites
 
@@ -45,3 +37,4 @@ You can install these dependencies using the following:
 
 ```bash
 pip install torch>=2.0.1 stable-baselines3 gym==0.21.0 opencv-python numpy wandb
+
