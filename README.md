@@ -1,7 +1,8 @@
 # Tess-v1: Pure RL Solution for NeurIPS Melting Pot Contest
 
-Tess-v1 is a reinforcement learning solution developed for the NeurIPS Melting Pot Contest. The repository contains various training and model files, with `models/model_v4_cont.py` being applied in all the final experiments.
+- [Melting Pot Contest (AICrowd)](https://www.aicrowd.com/challenges/meltingpot-challenge-2023)
 
+Tess-v1 is a reinforcement learning solution developed for the NeurIPS Melting Pot Contest. The repository contains various training and model files, with `models/model_v4_cont.py` being applied in all the final experiments.
 ## Table of Contents
 
 - [Introduction](#introduction)
