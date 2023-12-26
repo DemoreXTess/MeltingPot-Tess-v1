@@ -32,9 +32,10 @@ Before running Tess-v1, ensure you have the following prerequisites installed:
 - OpenCV-Python
 - NumPy
 - WandB (Weights & Biases)
+- MeltingPot Suite
 
 You can install these dependencies using the following:
 
 ```bash
-pip install torch>=2.0.1 stable-baselines3 gym==0.21.0 opencv-python numpy wandb
+pip install torch>=2.0.1 stable-baselines3 gym==0.21.0 opencv-python numpy wandb dm-meltingpot
 
