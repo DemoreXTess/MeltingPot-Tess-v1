@@ -41,7 +41,7 @@ pip install torch>=2.0.1 stable-baselines3 gym==0.21.0 opencv-python numpy wandb
 ```
 ## License
 
-This project is licensed under the [MIT License](https://github.com/utkuearas/MeltingPot-Tess-v1/LICENSE.md)
+This project is licensed under the [MIT License](https://github.com/utkuearas/MeltingPot-Tess-v1/blob/master/LICENSE)
 
 
 
